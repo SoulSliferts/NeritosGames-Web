@@ -132,9 +132,11 @@ Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color repr
 **Principios Clave:**
 *  **Usabilidad:** Facilitar el acceso rápido a la información esencial (turnos, precios, rankings, retos).
 *  **Consistencia Visual:**
-    - Colores Principales: 
+    - Colores Principales:
+
     ![colores](images/colors.png)
     - Colores Extras: 
+    
     ![extras](images/colors-extras.png)
 *  **Claridad:** Presentar datos complejos (como la Malla de Turnos) de forma clara y organizada.
 *  **Engagement:** Crear una experiencia atractiva para la comunidad de jugadores de NeritosGames.
