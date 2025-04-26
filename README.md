@@ -33,17 +33,17 @@
     <tbody>
         <tr>
             <td><strong>Desarrollo Frontend</strong></td>
-            <td>4 - 16 hrs</td>
+            <td>10 - 16 hrs</td>
             <td>Media / Alta</td>
         </tr>
         <tr>
             <td><strong>Desarrollo Backend</strong></td>
-            <td>6 - 24 hrs</td>
+            <td>12 - 24 hrs</td>
             <td>Media / Alta</td>
         </tr>
         <tr>
             <td><strong>Diseño UI/UX</strong></td>
-            <td>8 - 30 hrs</td>
+            <td>11 - 30 hrs</td>
             <td>Media / Alta</td>
         </tr>
         <tr>
@@ -84,5 +84,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>&nbsp;
 </p>
 
