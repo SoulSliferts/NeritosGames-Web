@@ -97,35 +97,35 @@
 Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color representa la dificultad(rojo dificil y verde facil):
 
 **Turnos**
-🔴 Bug 1: Dias y Semanas en ingles
-🟢 Bug 2: Horas disponibles rotas de horario nocturno
-🟢 Bug 3: Selects Dias y Semanas intercalados(semanas y meses desordenas o textos rotos)
-🟢 Bug 4: Pestañas intercambiables rotas para la malla de turnos
-🟢 Bug 5: Fondo de pestaña no aparece o no intercala
-🔴 Bug 6: Turnos no correctos o fuera del rango
+- 🔴 Bug 1: Dias y Semanas en ingles
+- 🟢 Bug 2: Horas disponibles rotas de horario nocturno
+- 🟢 Bug 3: Selects Dias y Semanas intercalados(semanas y meses desordenas o textos rotos)
+- 🟢 Bug 4: Pestañas intercambiables rotas para la malla de turnos
+- 🟢 Bug 5: Fondo de pestaña no aparece o no intercala
+- 🔴 Bug 6: Turnos no correctos o fuera del rango
 
 **Tabal de clasificacion de usuarios**
 
-🔴 Bug 1: No hay resultados disponibles aun cuando en la base de datos si existen datos
-🟢 Bug 2: Los usuarios no estan ordenados
-🟢 Bug 3: Iconos rotos
+- 🔴 Bug 1: No hay resultados disponibles aun cuando en la base de datos si existen datos
+- 🟢 Bug 2: Los usuarios no estan ordenados
+- 🟢 Bug 3: Iconos rotos
 
 
 **Precios y Beneficios**
 
-🟢 Bug 1: Fondo no cambiante entre tablas
-🔴 Bug 2: Imagenes y svgs rotos
-🟢 Bug 3: Footer con display mas pequeño de los esperado
-🟢 Bug 4: Cards no responsive
+- 🟢 Bug 1: Fondo no cambiante entre tablas
+- 🔴 Bug 2: Imagenes y svgs rotos
+- 🟢 Bug 3: Footer con display mas pequeño de los esperado
+- 🟢 Bug 4: Cards no responsive
 
 **Retos**
 
-🟢 Bug 1: Cards rotas
-🔴 Bug 2: Sumatoria Itg no funcional(Calculo no correcto entre Total x y Total y)
-🟢 Bug 3: Orden de usuarios mal hecho
-🟢 Bug 4: Iconos rotos
-🔴 Bug 5: Sumatoria Pump no funcional(Calculo no correcto entre Total x y Total custom)
-🟢 Bug 6: Puntajes subidos no correctos
+- 🟢 Bug 1: Cards rotas
+- 🔴 Bug 2: Sumatoria Itg no funcional(Calculo no correcto entre Total x y Total y)
+- 🟢 Bug 3: Orden de usuarios mal hecho
+- 🟢 Bug 4: Iconos rotos
+- 🔴 Bug 5: Sumatoria Pump no funcional(Calculo no correcto entre Total x y Total custom)
+- 🟢 Bug 6: Puntajes subidos no correctos
 
 
 ## Diseño
