@@ -5,17 +5,68 @@
 ![Editor](https://img.shields.io/badge/Editor-VisualStudioCode-blue)
 ![Host](https://img.shields.io/badge/Host-Render-red)
 ![App](https://img.shields.io/badge/App-Web-white)
+![Version](https://img.shields.io/badge/Versi%C3%B3n-1.0-black)
+
+## Tabla de Contenidos
+- [Descripción](#descripción)
+- [Info Rapida](#info-rapida)
+- [Características Principales](#características-principales)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Diseño](#diseño)
+- [Contacto](#contacto)
+
 
 # Descripción
 
 🎮 ¡El portal digital oficial de NeritosGames! Descubre eventos, explora nuestro catálogo de juegos, consulta horarios y mantente conectado con nuestra comunidad. Visítanos en [neritosweb.onrender.com](https://neritosweb.onrender.com).
 
-## Tabla de Contenidos
-- [Descripción](#descripción)
-- [Características Principales](#características-principales)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Diseño](#diseño)
-- [Contacto](#contacto)
+## Info Rapida
+<table>
+    <thead>
+        <tr>
+            <td>Tipo De Accion</td>
+            <td>Tiempo Aproximado(Horas)</td>
+            <td>Dificultad</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Desarrollo Frontend</strong></td>
+            <td>4 - 16 hrs</td>
+            <td>Media / Alta</td>
+        </tr>
+        <tr>
+            <td><strong>Desarrollo Backend</strong></td>
+            <td>6 - 24 hrs</td>
+            <td>Media / Alta</td>
+        </tr>
+        <tr>
+            <td><strong>Diseño UI/UX</strong></td>
+            <td>8 - 30 hrs</td>
+            <td>Media / Alta</td>
+        </tr>
+        <tr>
+            <td><strong>Base De Datos</strong></td>
+            <td>1 - 3 hrs</td>
+            <td>Baja / Media</td>
+        </tr>
+        <tr>
+            <td><strong>Configuracion / Despliegue</strong></td>
+            <td>0.5 - 2 hrs</td>
+            <td>Baja / Media</td>
+        </tr>
+        <tr>
+            <td><strong>Resolucion de Bugs</strong></td>
+            <td>1 - 8 hrs</td>
+            <td>Variable (Baja a Alta)</td>
+        </tr>
+        <tr>
+            <td><strong>Añadir Caracteristicas o Rediseñar</strong></td>
+            <td>4 - 10 hrs</td>
+            <td>Media / Alta</td>
+        </tr>
+</table>
+*(Nota: Los tiempos y dificultades son estimaciones del esfuerzo requerido para tareas individuales representativas dentro del proyecto. La complejidad específica de cada tarea puede variar.)*
 
 ## Características Principales
 *   📅 Malla de Turnos en Tiempo Real: Consulta los turnos disponibles para juegos como In The Groove, Pump It Up, Dance Dance Revolution, JustDance, Taiko y Wii, con filtros por semanas y meses para planificación a largo plazo.
