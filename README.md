@@ -21,6 +21,7 @@
 🎮 ¡El portal digital oficial de NeritosGames! Descubre eventos, explora nuestro catálogo de juegos, consulta horarios y mantente conectado con nuestra comunidad. Visítanos en [neritosweb.onrender.com](https://neritosweb.onrender.com).
 
 ## Info Rapida
+**Esta tabla ofrece una estimación general del tipo de tareas comunes en el desarrollo y mantenimiento de NeritosGames-Web, basado en un tiempo total de desarrollo aproximado de 504 horas:**
 <table>
     <thead>
         <tr>
@@ -66,7 +67,8 @@
             <td>Media / Alta</td>
         </tr>
 </table>
-*(Nota: Los tiempos y dificultades son estimaciones del esfuerzo requerido para tareas individuales representativas dentro del proyecto. La complejidad específica de cada tarea puede variar.)*
+
+> **Nota:** Los tiempos y dificultades son estimaciones del esfuerzo requerido para tareas individuales representativas dentro del proyecto. La complejidad específica de cada tarea puede variar
 
 ## Características Principales
 *   📅 Malla de Turnos en Tiempo Real: Consulta los turnos disponibles para juegos como In The Groove, Pump It Up, Dance Dance Revolution, JustDance, Taiko y Wii, con filtros por semanas y meses para planificación a largo plazo.
