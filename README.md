@@ -6,6 +6,8 @@
 ![Host](https://img.shields.io/badge/Host-Render-red)
 ![App](https://img.shields.io/badge/App-Web-white)
 
+# Descripción
+
 🎮 ¡El portal digital oficial de NeritosGames! Descubre eventos, explora nuestro catálogo de juegos, consulta horarios y mantente conectado con nuestra comunidad. Visítanos en [neritosweb.onrender.com](https://neritosweb.onrender.com).
 
 ## Tabla de Contenidos
@@ -15,7 +17,7 @@
 - [Diseño](#diseño)
 - [Contacto](#contacto)
 
-## ✨ Características Principales
+## Características Principales
 *   📅 Malla de Turnos en Tiempo Real: Consulta los turnos disponibles para juegos como In The Groove, Pump It Up, Dance Dance Revolution, JustDance, Taiko y Wii, con filtros por semanas y meses para planificación a largo plazo.
 *   🏆 Tabla de Clasificación de Usuarios: Visualiza el ranking de usuarios basado en su cantidad de visitas, diferenciando entre clientes Neritos y Premium.
 *   💵 Precios y Beneficios: Accede a tablas de precios actualizadas para cada tipo de turno, incluyendo los beneficios exclusivos para usuarios Premium en todos los juegos disponibles.
