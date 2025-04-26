@@ -97,14 +97,12 @@
 Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color representa la dificultad(rojo dificil y verde facil):
 
 **Turnos**
-``` diff
 - **Bug 1:** Dias y Semanas en ingles
 + **Bug 2:** Horas disponibles rotas de horario nocturno
 - **Bug 3:** Selects Dias y Semanas intercalados(semanas y meses desordenas o textos rotos)
 + **Bug 4:** Pestañas intercambiables rotas para la malla de turnos
 + **Bug 5:** Fondo de pestaña no aparece o no intercala
 - **Bug 6:** Turnos no correctos o fuera del rango
-```
 
 **Tabal de clasificacion de usuarios**
 ``` diff
