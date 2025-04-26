@@ -13,7 +13,7 @@
 - [Características Principales](#características-principales)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Hoja de Bugs](#hoja-de-bugs)
-- [Diseño](#diseño)
+- [Diseño y Experiencia de Usuario (UI/UX)](#diseño-y-experiencia-de-usuario-uiux)
 - [Contacto](#contacto)
 
 
@@ -127,5 +127,5 @@ Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color repr
 - 🔴 Bug 5: Sumatoria Pump no funcional(Calculo no correcto entre Total x y Total custom)
 - 🟢 Bug 6: Puntajes subidos no correctos
 
+## Diseño y Experiencia de Usuario (UI/UX)
 
-## Diseño
