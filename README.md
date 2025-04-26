@@ -142,7 +142,5 @@ Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color repr
 
     ![tipografia](images/Tipografia.png)
 
-    ![tipografia-custom](images/Tipografia-custom.png)
-    
-*  **Claridad:** Presentar datos complejos (como la Malla de Turnos) de forma clara y organizada.
-*  **Engagement:** Crear una experiencia atractiva para la comunidad de jugadores de NeritosGames.
+*  **Claridad:** Presentar datos complejos de forma clara y organizada.
+*  **Idea:** Crear una experiencia atractiva para la comunidad de jugadores de NeritosGames
