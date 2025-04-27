@@ -40,41 +40,37 @@
     <tbody>
         <tr>
             <td><strong>Desarrollo Frontend</strong></td>
-            <td>10 - 16 h</td> {/* Corrección: 'h' */}
+            <td>10 - 16 h</td>
             <td>Media / Alta</td>
         </tr>
         <tr>
             <td><strong>Desarrollo Backend</strong></td>
-            <td>12 - 24 h</td> {/* Corrección: 'h' */}
+            <td>12 - 24 h</td>
             <td>Media / Alta</td>
         </tr>
         <tr>
             <td><strong>Diseño UI/UX</strong></td>
-            <td>11 - 30 h</td> {/* Corrección: 'h' */}
+            <td>11 - 30 h</td>
             <td>Media / Alta</td>
         </tr>
         <tr>
-             {/* Corrección: 'de' minúscula */}
             <td><strong>Base de Datos</strong></td>
-            <td>1 - 3 h</td> {/* Corrección: 'h' */}
+            <td>1 - 3 h</td>
             <td>Baja / Media</td>
         </tr>
         <tr>
-            {/* Corrección: Configuración con acento */}
             <td><strong>Configuración / Despliegue</strong></td>
-            <td>0.5 - 2 h</td> {/* Corrección: 'h' */}
+            <td>0.5 - 2 h</td>
             <td>Baja / Media</td>
         </tr>
         <tr>
-            {/* Corrección: Resolución con acento, 'de' minúscula */}
             <td><strong>Resolución de Bugs</strong></td>
-            <td>1 - 8 h</td> {/* Corrección: 'h' */}
+            <td>1 - 8 h</td>
             <td>Variable (Baja a Alta)</td>
         </tr>
         <tr>
-            {/* Corrección: Características con acento */}
             <td><strong>Añadir Características o Rediseñar</strong></td>
-            <td>4 - 10 h</td> {/* Corrección: 'h' */}
+            <td>4 - 10 h</td>
             <td>Media / Alta</td>
         </tr>
 </table>
