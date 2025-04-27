@@ -151,7 +151,7 @@ Un vistazo rápido de lo que se realizó en el diseño:
 
 Si deseas ver más sobre el diseño de [Figma](https://www.figma.com/design/vYvRShmTRz8eYPV27I3c34/Neritos-Desing?node-id=0-1&t=3mvxmGVQeJvsqJ0z-1)
 
-## Galería {/* Corrección: Galería con acento */}
+## Galería
 
 Vistazo del antes y después del diseño del proyecto una vez se terminó su desarrollo
 
@@ -171,7 +171,7 @@ Despues:
 
 **Precios y Beneficios**
 Antes:
-![Precios](images/price.png.png)
+![Precios](images/price.png)
 
 Despues:
 ![Precios-2](images/price-2.png)
@@ -229,4 +229,4 @@ Aunque el código fuente base fue creado por mí, **todos los derechos relaciona
 
 Cualquier uso del código o diseño que vaya más allá de la simple visualización con fines educativos o de evaluación del desarrollador **requiere el permiso explícito y por escrito tanto de SoulSliferts (para el código base) como de NeritosGames (para cualquier aspecto relacionado con su marca o producto)**
 
-**En resumen: Todos los derechos reservados.** No se concede ninguna licencia implícita o explícita para la reutilización comercial o la replicación del producto final de NeritosGames a través de este repositorio.
+**Todos los derechos reservados**
