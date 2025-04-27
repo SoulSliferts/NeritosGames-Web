@@ -9,12 +9,12 @@
 
 ## Tabla de Contenidos
 - [Descripción](#descripción)
-- [Info Rapida](#info-rapida)
+- [Info Rápida](#info-rápida)
 - [Características Principales](#características-principales)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Hoja de Bugs](#hoja-de-bugs)
 - [Diseño y Experiencia de Usuario (UI/UX)](#diseño-y-experiencia-de-usuario-uiux)
-    -[Galeria](#galeria)
+    -[Galería](#galería)
 - [Contacto](#contacto)
 - [Licencia y Copyright](#licencia-y-copyright)
 
@@ -23,59 +23,63 @@
 
 🎮 ¡El portal digital oficial de NeritosGames! Descubre eventos, explora nuestro catálogo de juegos, consulta horarios y mantente conectado con nuestra comunidad. Visítanos en [neritosweb.onrender.com](https://neritosweb.onrender.com).
 
-## Info Rapida
+## Info Rápida
 
 * Fecha de Inicio del proyecto: 4 abril
-* Fecha de Finalizacion del proyecto: 25 abril
+* Fecha de Finalización del proyecto: 25 abril
 
 **Esta tabla ofrece una estimación general del tipo de tareas comunes en el desarrollo y mantenimiento de NeritosGames-Web, basado en un tiempo total de desarrollo aproximado de 504 horas:**
 <table>
     <thead>
         <tr>
-            <td>Tipo De Accion</td>
-            <td>Tiempo Aproximado(Horas)</td>
+            <td>Tipo de Acción</td>
+            <td>Tiempo Aproximado (h)</td>
             <td>Dificultad</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><strong>Desarrollo Frontend</strong></td>
-            <td>10 - 16 hrs</td>
+            <td>10 - 16 h</td> {/* Corrección: 'h' */}
             <td>Media / Alta</td>
         </tr>
         <tr>
             <td><strong>Desarrollo Backend</strong></td>
-            <td>12 - 24 hrs</td>
+            <td>12 - 24 h</td> {/* Corrección: 'h' */}
             <td>Media / Alta</td>
         </tr>
         <tr>
             <td><strong>Diseño UI/UX</strong></td>
-            <td>11 - 30 hrs</td>
+            <td>11 - 30 h</td> {/* Corrección: 'h' */}
             <td>Media / Alta</td>
         </tr>
         <tr>
-            <td><strong>Base De Datos</strong></td>
-            <td>1 - 3 hrs</td>
+             {/* Corrección: 'de' minúscula */}
+            <td><strong>Base de Datos</strong></td>
+            <td>1 - 3 h</td> {/* Corrección: 'h' */}
             <td>Baja / Media</td>
         </tr>
         <tr>
-            <td><strong>Configuracion / Despliegue</strong></td>
-            <td>0.5 - 2 hrs</td>
+            {/* Corrección: Configuración con acento */}
+            <td><strong>Configuración / Despliegue</strong></td>
+            <td>0.5 - 2 h</td> {/* Corrección: 'h' */}
             <td>Baja / Media</td>
         </tr>
         <tr>
-            <td><strong>Resolucion de Bugs</strong></td>
-            <td>1 - 8 hrs</td>
+            {/* Corrección: Resolución con acento, 'de' minúscula */}
+            <td><strong>Resolución de Bugs</strong></td>
+            <td>1 - 8 h</td> {/* Corrección: 'h' */}
             <td>Variable (Baja a Alta)</td>
         </tr>
         <tr>
-            <td><strong>Añadir Caracteristicas o Rediseñar</strong></td>
-            <td>4 - 10 hrs</td>
+            {/* Corrección: Características con acento */}
+            <td><strong>Añadir Características o Rediseñar</strong></td>
+            <td>4 - 10 h</td> {/* Corrección: 'h' */}
             <td>Media / Alta</td>
         </tr>
 </table>
 
-> **Nota:** Los tiempos y dificultades son estimaciones del esfuerzo requerido para tareas individuales representativas dentro del proyecto. La complejidad específica de cada tarea puede variar
+> **Nota:** Los tiempos y dificultades son estimaciones del esfuerzo requerido para tareas individuales representativas dentro del proyecto. La complejidad específica de cada tarea puede variar.
 
 ## Características Principales
 *   📅 Malla de Turnos en Tiempo Real: Consulta los turnos disponibles para juegos como In The Groove, Pump It Up, Dance Dance Revolution, JustDance, Taiko y Wii, con filtros por semanas y meses para planificación a largo plazo.
@@ -96,42 +100,42 @@
 
 ## Hoja de Bugs
 
-Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color representa la dificultad(rojo dificil y verde facil):
+Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color representa la dificultad (rojo difícil y verde fácil):
 
 **Turnos**
-- 🔴 Bug 1: Dias y Semanas en ingles
+- 🔴 Bug 1: Días y Semanas en inglés
 - 🟢 Bug 2: Horas disponibles rotas de horario nocturno
-- 🟢 Bug 3: Selects Dias y Semanas intercalados(semanas y meses desordenas o textos rotos)
+- 🟢 Bug 3: Selects Días y Semanas intercalados (semanas y meses desordenados o textos rotos)
 - 🟢 Bug 4: Pestañas intercambiables rotas para la malla de turnos
 - 🟢 Bug 5: Fondo de pestaña no aparece o no intercala
 - 🔴 Bug 6: Turnos no correctos o fuera del rango
 
-**Tabal de clasificacion de usuarios**
+**Tabla de clasificación de usuarios**
 
-- 🔴 Bug 1: No hay resultados disponibles aun cuando en la base de datos si existen datos
-- 🟢 Bug 2: Los usuarios no estan ordenados
+- 🔴 Bug 1: No hay resultados disponibles aún cuando en la base de datos sí existen datos
+- 🟢 Bug 2: Los usuarios no están ordenados
 - 🟢 Bug 3: Iconos rotos
 
 
 **Precios y Beneficios**
 
 - 🟢 Bug 1: Fondo no cambiante entre tablas
-- 🔴 Bug 2: Imagenes y svgs rotos
-- 🟢 Bug 3: Footer con display mas pequeño de los esperado
+- 🔴 Bug 2: Imágenes y svgs rotos
+- 🟢 Bug 3: Footer con display más pequeño de lo esperado
 - 🟢 Bug 4: Cards no responsive
 
 **Retos**
 
 - 🟢 Bug 1: Cards rotas
-- 🔴 Bug 2: Sumatoria Itg no funcional(Calculo no correcto entre Total x y Total y)
+- 🔴 Bug 2: Sumatoria ITG no funcional (Cálculo no correcto entre Total x y Total y)
 - 🟢 Bug 3: Orden de usuarios mal hecho
 - 🟢 Bug 4: Iconos rotos
-- 🔴 Bug 5: Sumatoria Pump no funcional(Calculo no correcto entre Total x y Total custom)
+- 🔴 Bug 5: Sumatoria Pump no funcional (Cálculo no correcto entre Total x y Total custom)
 - 🟢 Bug 6: Puntajes subidos no correctos
 
 ## Diseño y Experiencia de Usuario (UI/UX)
 
-Un vistaso rapido de lo que se realizo en el diseño:
+Un vistazo rápido de lo que se realizó en el diseño:
 
 **Principios Clave:**
 *  **Usabilidad:** Facilitar el acceso rápido a la información esencial (turnos, precios, rankings, retos).
@@ -139,21 +143,21 @@ Un vistaso rapido de lo que se realizo en el diseño:
     - Colores Principales:
 
     ![colores](images/colors.png)
-    - Colores Extras: 
+    - Colores Extras:
 
     ![extras](images/colors-extras.png)
-    - Tipografias:
+    - Tipografías:
 
     ![tipografia](images/Tipografia.png)
 
 *  **Claridad:** Presentar datos complejos de forma clara y organizada.
 *  **Idea:** Crear una experiencia atractiva para la comunidad de jugadores de NeritosGames
 
-si deseas ver mas sobre el diseño de [Figma](https://www.figma.com/design/vYvRShmTRz8eYPV27I3c34/Neritos-Desing?node-id=0-1&t=3mvxmGVQeJvsqJ0z-1)
+Si deseas ver más sobre el diseño de [Figma](https://www.figma.com/design/vYvRShmTRz8eYPV27I3c34/Neritos-Desing?node-id=0-1&t=3mvxmGVQeJvsqJ0z-1)
 
-## Galeria
+## Galería {/* Corrección: Galería con acento */}
 
-Vistaso del antes y depues del diseño del proyecto una ves se termino su desarrollo
+Vistazo del antes y después del diseño del proyecto una vez se terminó su desarrollo
 
 **Turnos**
 Antes:
@@ -162,7 +166,7 @@ Antes:
 Despues:
 ![Turnos-2](images/Turnos-2.png)
 
-**Tabal de clasificacion de clientes**
+**Tabla de clasificación de clientes**
 Antes:
 ![Clasificacion](images/leader.png)
 
@@ -208,7 +212,7 @@ Despues:
 
 * Mira mis otros trabajos en GitHub: [SoulSliferts](https://github.com/SoulSliferts)
 
-* Para preguntas o colaboraciones, puedes enviar un correo a: [shadowjli777@gmail.com](mailto:shadowjli77@gmail.com)
+* Para preguntas o colaboraciones, puedes enviar un correo a: [shadowjli777@gmail.com](mailto:shadowjli777@gmail.com)
 
 * Para reportar errores o sugerir nuevas características, por favor abre un [Issue](https://github.com/SoulSliferts/NeritosGames-Web/issues) en este repositorio.
 
@@ -220,13 +224,13 @@ Despues:
 
 **Aviso Importante:**
 
-Aunque el código fuente base fue creado por mi, **todos los derechos relacionados con el producto final, incluyendo (pero no limitado a) el diseño específico, la marca "NeritosGames", el contenido, los datos y la implementación desplegada en neritosweb.onrender.com, pertenecen exclusivamente a NeritosGames.**
+Aunque el código fuente base fue creado por mí, **todos los derechos relacionados con el producto final, incluyendo (pero no limitado a) el diseño específico, la marca "NeritosGames", el contenido, los datos y la implementación desplegada en neritosweb.onrender.com, pertenecen exclusivamente a NeritosGames.**
 
 **Queda estrictamente prohibido:**
 
 *   Copiar, modificar o distribuir este diseño con el fin de replicar, competir o suplantar el servicio o la marca de NeritosGames.
 *   Utilizar elementos visuales, estructurales o funcionales específicos de este proyecto de manera que infrinjan los derechos de NeritosGames.
 
-Cualquier uso del código o diseño que vaya más allá de la simple visualización con fines educativos o de evaluación del desarrollador **requiere el permiso explícito y por escrito tanto de SoulSliferts (para el código base) como de NeritosGames (para cualquier aspecto relacionado con su marca o producto)**.
+Cualquier uso del código o diseño que vaya más allá de la simple visualización con fines educativos o de evaluación del desarrollador **requiere el permiso explícito y por escrito tanto de SoulSliferts (para el código base) como de NeritosGames (para cualquier aspecto relacionado con su marca o producto)**
 
 **En resumen: Todos los derechos reservados.** No se concede ninguna licencia implícita o explícita para la reutilización comercial o la replicación del producto final de NeritosGames a través de este repositorio.
