@@ -14,7 +14,9 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Hoja de Bugs](#hoja-de-bugs)
 - [Diseño y Experiencia de Usuario (UI/UX)](#diseño-y-experiencia-de-usuario-uiux)
+    -[Galeria](#galeria)
 - [Contacto](#contacto)
+- [Licencia y Copyright](#licencia-y-copyright)
 
 
 # Descripción
@@ -129,6 +131,8 @@ Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color repr
 
 ## Diseño y Experiencia de Usuario (UI/UX)
 
+Un vistaso rapido de lo que se realizo en el diseño:
+
 **Principios Clave:**
 *  **Usabilidad:** Facilitar el acceso rápido a la información esencial (turnos, precios, rankings, retos).
 *  **Consistencia Visual:**
@@ -144,3 +148,85 @@ Ruta de Bugs que surgieron mientras se desarrollaba el proyecto, cada color repr
 
 *  **Claridad:** Presentar datos complejos de forma clara y organizada.
 *  **Idea:** Crear una experiencia atractiva para la comunidad de jugadores de NeritosGames
+
+si deseas ver mas sobre el diseño de [Figma](https://www.figma.com/design/vYvRShmTRz8eYPV27I3c34/Neritos-Desing?node-id=0-1&t=3mvxmGVQeJvsqJ0z-1)
+
+## Galeria
+
+Vistaso del antes y depues del diseño del proyecto una ves se termino su desarrollo
+
+**Turnos**
+Antes:
+![Turnos](images/Turnos.png)
+
+Despues:
+![Turnos-2](images/Turnos-2.png)
+
+**Tabal de clasificacion de clientes**
+Antes:
+![Clasificacion](images/leader.png)
+
+Despues:
+![Clasificacion-2](images/leader-2.png)
+
+**Precios y Beneficios**
+Antes:
+![Precios](images/price.png.png)
+
+Despues:
+![Precios-2](images/price-2.png)
+
+**Retos**
+Antes:
+![Retos](images/Retos.png)
+
+Despues:
+![Retos-2](images/Retos-2.png)
+
+**Turnos-Admin**
+Antes:
+![Turnos-Admin](images/admin%20Turnos.png)
+
+Despues:
+![Turnos-Admin-2](images/admin%20Turnos-2.png)
+
+**Clientes-Admin**
+Antes:
+![Clientes-Admin](images/admin%20Clientes.png)
+
+Despues:
+![Clientes-Admin-2](images/admin%20Clientes-2.png)
+
+**Retos-Admin**
+Antes:
+![Retos-Admin](images/admin%20Retos.png)
+
+Despues:
+![Retos-Admin-2](images/admin%20Retos-2.png)
+
+## Contacto
+
+* Mira mis otros trabajos en GitHub: [SoulSliferts](https://github.com/SoulSliferts)
+
+* Para preguntas o colaboraciones, puedes enviar un correo a: [shadowjli777@gmail.com](mailto:shadowjli77@gmail.com)
+
+* Para reportar errores o sugerir nuevas características, por favor abre un [Issue](https://github.com/SoulSliferts/NeritosGames-Web/issues) en este repositorio.
+
+## Licencia y Copyright
+
+**Copyright del Código Fuente:** © 2025 SoulSliferts
+
+**Derechos del Producto Final:** NeritosGames
+
+**Aviso Importante:**
+
+Aunque el código fuente base fue creado por mi, **todos los derechos relacionados con el producto final, incluyendo (pero no limitado a) el diseño específico, la marca "NeritosGames", el contenido, los datos y la implementación desplegada en neritosweb.onrender.com, pertenecen exclusivamente a NeritosGames.**
+
+**Queda estrictamente prohibido:**
+
+*   Copiar, modificar o distribuir este diseño con el fin de replicar, competir o suplantar el servicio o la marca de NeritosGames.
+*   Utilizar elementos visuales, estructurales o funcionales específicos de este proyecto de manera que infrinjan los derechos de NeritosGames.
+
+Cualquier uso del código o diseño que vaya más allá de la simple visualización con fines educativos o de evaluación del desarrollador **requiere el permiso explícito y por escrito tanto de SoulSliferts (para el código base) como de NeritosGames (para cualquier aspecto relacionado con su marca o producto)**.
+
+**En resumen: Todos los derechos reservados.** No se concede ninguna licencia implícita o explícita para la reutilización comercial o la replicación del producto final de NeritosGames a través de este repositorio.
